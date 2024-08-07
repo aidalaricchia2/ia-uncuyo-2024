@@ -1,0 +1,14 @@
+
+
+*\-----------------------------------------Punto 3--------------------------------------------------*  
+*“Siento que se está haciendo demasiado esfuerzo para intentar crear máquinas autónomas", dijo Bender, "en lugar de intentar crear máquinas que sean herramientas útiles para los humanos".”*
+
+Bender sostiene que se está invirtiendo demasiado esfuerzo en desarrollar máquinas autónomas en lugar de herramientas útiles para los humanos, es importante reconocer que la IA también tiene beneficios significativos. Las máquinas autónomas pueden realizar tareas de manera más eficiente y también pueden ayudar a la creación de herramientas más avanzadas para los humanos. Por ejemplo, en campos como la medicina, la IA autónoma puede analizar grandes volúmenes de datos para identificar patrones que los humanos podrían pasar por alto, lo que puede resultar en diagnósticos más precisos y tratamientos más personalizados. En la tesis de la egresada de nuestra carrera Mariel Volman se puede ver una de estas herramientas que si mal no recuerdo era un programa que podìa detectar un tipo especifico de cancer mediante imagenes.
+
+ Además, la IA puede liberarnos de tareas repetitivas, permitiendonos centrarnos en actividades más creativas y complejas. 
+
+“*En otras palabras, los chatbots que fácilmente confundimos con humanos no son solo simpáticos o desconcertantes. Se encuentran en una línea divisoria clara. Ocultar esa línea y desdibujar (mentiras) lo que es humano y lo que no lo es tiene el poder de desintegrar la sociedad.”*
+
+Aunque es cierto que los chatbots no son humanos, la afirmación de que *desdibujar la línea entre lo humano y lo artificial podría desintegrar la sociedad puede ser un poco*  exagerada. Los chatbots, incluso cuando imitan conversaciones humanas, están diseñados para tareas específicas y su propósito es mejorar la eficiencia y la accesibilidad en servicios repetitivos. Lo ideal sería educar a los usuarios sobre las capacidades y limitaciones de la inteligencia artificial, en lugar de buscar ocultarla, y asi no confundirlas con la interacción humana real. La tecnología puede coexistir con la interacción humana, siempre y cuando mantengamos una comprensión clara de sus roles y limitaciones.
+
+Los chatbots se destacan en la gestión de tareas repetitivas debido a su capacidad para operar de manera continua y eficiente. A diferencia de los humanos, que pueden verse afectados por la fatiga o la carga de trabajo, los chatbots pueden procesar múltiples solicitudes simultáneamente sin perder eficacia. Esto reduce los tiempos de espera para los usuarios y minimiza el riesgo de errores que podrían surgir de la intervención humana. Hay casos como por ejemplo la designaciòn de un turno en los que no es necesario tener a una persona trabajando en eso y perfectamente ese trabajo puede estar hecho por un chatbot, igualmente lo que me parece necesario es que haya una persona para resolver problemas puntuales.
