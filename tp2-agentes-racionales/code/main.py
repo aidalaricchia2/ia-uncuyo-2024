@@ -15,34 +15,37 @@ while dirt_rate<0 or dirt_rate>=1:
 env = Environment(size,size, init_posX, init_posY, dirt_rate)
 env1=copy.deepcopy(env)
 
-env1.print_environment()
-env.print_environment()
+
 
 agent_reflex = Agent(env)
 agent_random = Agent(env1)
-#Agente Random
-for _ in range(1000):
-    #env1.print_environment()
-    action = random.choice(['Arriba', 'Abajo', 'Izquierda', 'Derecha', 'Limpiar', 'NoHacerNada'])
-    #print(f"Acción elegida: {action}")
-    agent_action = agent_random.choose_action(action)
-    env1.accept_action(agent_action)
-print("Rendimiento final:", env1.get_performance())
 
+
+#Agente Random
+for _ in range(10):
+    env1.print_environment()
+    action = random.choice(['Arriba', 'Abajo', 'Izquierda', 'Derecha', 'Limpiar', 'NoHacerNada'])
+    print(f"Acción elegida: {action}")
+    agent_action = agent_random.choose_action(action)
+    if action == 'Limpiar' and env1.is_dirty: env1.accept_action('Limpiar')
+    else:
+        env1.accept_action(agent_action)
+print("Rendimiento final:", env1.get_performance())
 
 
 
 #Agente Reflexivo
 print('----------------')
 env.print_environment()
-for _ in range(1000):
+for _ in range(10):
     env.print_environment()
-    action = input('Introduce la accion: Arriba, Abajo, Izquierda, Derecha, Limpiar, NoHacerNada: ')
+    action = random.choice(['Arriba', 'Abajo', 'Izquierda', 'Derecha', 'NoHacerNada'])
     print(f"Acción elegida: {action}")
     agent_action = agent_reflex.choose_action(action)
+    if env.is_dirty : env.accept_action('Limpiar')
+
     env.accept_action(agent_action)
 print("Rendimiento final:", env.get_performance())
-
 
 
 
