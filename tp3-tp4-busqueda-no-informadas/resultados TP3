@@ -1,0 +1,26 @@
+BFS RESULTADOS:
+
+Escenario 1
+Cantidad de estados explorados - Media: 4560.566666666667, Desviación estándar: 2782.9558348793266
+Costo total - Media: 16684.333333333332, Desviación estándar: 10159.490687146785
+Tiempo empleado - Media: 0.07153529326121012, Desviación estándar: 0.046256394488792846
+Escenario 2
+Cantidad de estados explorados - Media: 4560.566666666667, Desviación estándar: 2782.9558348793266
+Costo total - Media: 41734.066666666666, Desviación estándar: 25401.24578694692
+Tiempo empleado - Media: 0.07153529326121012, Desviación estándar: 0.046256394488792846
+
+
+DFS RESULTADOS:
+
+Escenario 1
+Cantidad de estados explorados - Media: 3293.3333333333335, Desviación estándar: 2263.72909647383
+Costo total - Media: 11959.166666666666, Desviación estándar: 8236.129884370584
+Tiempo empleado - Media: 0.5017707586288452, Desviación estándar: 0.4318173279430423
+Escenario 2
+Cantidad de estados explorados - Media: 3293.3333333333335, Desviación estándar: 2263.72909647383
+Costo total - Media: 18053.933333333334, Desviación estándar: 12382.001450851509
+Tiempo empleado - Media: 0.5017707586288452, Desviación estándar: 0.4318173279430423
+
+BCU RESULTADOS:
+
+
