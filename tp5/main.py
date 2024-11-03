@@ -5,7 +5,7 @@ import seaborn as sns
 from ej1 import *
 from ej2 import *
 
-def ejecutar_algoritmos(n_values, num_runs=30, max_evaluations=1000):
+def ejecutar_algoritmos(n_values, num_runs=30, max_evaluations=100000):
     resultados = []
     for n in n_values:
         print(f"Ejecutando para N={n}")
