@@ -3,7 +3,7 @@
 ## Algoritmo evolutivo para la asignación de horarios y escuelas
 ### Código: CLASSMATCH 
 ### Integrantes: Laricchia Aida(13251) y Nahman Martina(13685)
-![robots]([url](https://github.com/aidalaricchia2/ia-uncuyo-2024/blob/main/proyecto_final/images/robots.jpg))
+![robots](https://github.com/aidalaricchia2/ia-uncuyo-2024/blob/main/proyecto_final/images/robots.jpg)
     ![legos](url)
 ### Descripción: 
 
