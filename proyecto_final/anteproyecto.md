@@ -9,7 +9,7 @@
 
 Este proyecto propone el desarrollo de un algoritmo evolutivo para la asignación de horarios y ubicaciones de trabajo de profesores en una red de escuelas o talleres. El **objetivo principal** es optimizar el proceso de asignación de manera que se minimicen las distancias de traslado y se ajusten los horarios a la disponibilidad de los docentes, tomando en cuenta su nivel de experiencia. En particular, se define que los profesores “junior” no pueden impartir clases solos, por lo que deben ser asignados en conjunto con un profesor “senior”, mientras que los “senior” pueden trabajar de manera independiente. Además, el algoritmo debe cumplir con una distribución justa y eficiente en función de la experiencia, horarios disponibles y ubicación de residencia de los profesores.
 
-Para la implementación, se investigará el uso de la librería DEAP (Distributed Evolutionary Algorithms in Python), una herramienta flexible y de código abierto que facilita el diseño y prueba de algoritmos evolutivos. DEAP permitirá estructurar y personalizar la solución, así como aplicar operadores genéticos que optimicen los resultados en este contexto.
+Para la implementación, se investigará el uso de la librería DEAP (Distributed Evolutionary Algorithms in Python), una herramienta flexible y de código abierto que facilita el diseño y prueba de algoritmos evolutivos. DEAP permitirá estructurar y personalizar la solución, así como aplicar operadores genéticos que optimicen los resultados en este contexto. (1)(2)
 
 ![curso](https://github.com/aidalaricchia2/ia-uncuyo-2024/blob/main/proyecto_final/images/curso.jpeg)
 #### Objetivos
@@ -20,7 +20,7 @@ Para la implementación, se investigará el uso de la librería DEAP (Distribute
 #### Alcance
 
 El algoritmo asignará profesores a las escuelas que mejor cumplan con los requisitos de cercanía, disponibilidad horaria, y adecuación de nivel (junior o senior).
-Se utilizará el framework DEAP para implementar un algoritmo evolutivo, aprovechando sus capacidades para resolver problemas de optimización multiobjetivo.
+Se utilizará el framework DEAP para implementar un algoritmo evolutivo multiobjetivo, aprovechando sus capacidades para resolver problemas de optimización multiobjetivo.(3) (4)
 
 
 #### Limitaciones
@@ -41,8 +41,12 @@ La evaluación del algoritmo se llevará a cabo mediante la comparación entre e
 
 
 #### Bibliografía
-* DEAP. (n.d.). DEAP Documentation. Retrieved from https://deap.readthedocs.io/en/master/
-* DEAP. (n.d.). DEAP - Distributed Evolutionary Algorithms in Python [GitHub repository]. GitHub. Retrieved from https://github.com/DEAP/deap
+* DEAP. (n.d.). DEAP Documentation. Retrieved from https://deap.readthedocs.io/en/master/  (1)
+* DEAP. (n.d.). DEAP - Distributed Evolutionary Algorithms in Python [GitHub repository]. GitHub.   Retrieved from https://github.com/DEAP/deap  (2)
+* Forcén, M. (2018). Selección y evaluación de estrategias en inteligencia artificial para la asignación de recursos docentes en instituciones educativas [Tesis de maestría, Universidad Nacional de La Plata]. CONICET Digital. https://ri.conicet.gov.ar/handle/11336/134016  (3)
+
+* Forcén, M., & Forcén, M. (2017). Análisis de técnicas de optimización para la asignación de horarios en entornos educativos [Artículo]. CONICET Digital. https://ri.conicet.gov.ar/handle/11336/67471  (4)
+
 
 
 ### Justificación
@@ -52,7 +56,7 @@ La naturaleza multiobjetivo del problema (minimizar distancias y maximizar adecu
 ### Listado de actividades a realizar
 
 1. Recopilación de bibliografía y ejemplos similares de problemas de asignación y optimización multiobjetivo.
- Investigar artículos y libros sobre asignación de recursos, optimización multiobjetivo y algoritmos evolutivos.
+*Descripción:* Investigar artículos y libros sobre asignación de recursos, optimización multiobjetivo y algoritmos evolutivos. (1)(2)(3)(4)
 *Duración:* 3 días
 
 2. Recopilación de datos respecto a los profesores y escuelas.
